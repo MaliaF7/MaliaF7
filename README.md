@@ -1,24 +1,12 @@
-### Hi there 👋
-<!--
-<table>
-  <tr>
-    <td>First Screen Page</td>
-    <td>![Code review-amico](https://user-images.githubusercontent.com/48861719/141650071-f3371c7c-197c-4870-a6da-4c5e1a4f57cc.png)</td>
-  </tr>
- </table>
--->
-![Code review-amico](https://user-images.githubusercontent.com/48861719/141650071-f3371c7c-197c-4870-a6da-4c5e1a4f57cc.png)
-<!--
-**MaliaF7/MaliaF7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="left" src="screenshot/Code review-amico.png" title="Angular" hspace="20"/>
+<br/>
 
-Here are some ideas to get you started:
+## Hi! I'm a high school student with an interest in computer programming.
+- 🔭 I’m currently working on the CyberStart game
+- 🌱 I’m currently learning kali linux
+- 🤔 I’m looking for summer internships
+- 💬 Ask me about cross country, piano, and cooking!
+- 😄 Pronouns: she/her
+- ⚡ Fun fact: I am bilingual! (spanish and english)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
