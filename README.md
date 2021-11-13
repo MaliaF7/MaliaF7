@@ -1,4 +1,4 @@
-<img align="left" src="screenshot/Code review-amico.png" title="Angular" hspace="20"/>
+<img align="left" src="img/Code review-amico.png" title="Angular" hspace="20"/>
 <br/>
 
 ## Hi! I'm a high school student with an interest in computer programming.
